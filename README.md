@@ -1,2 +1,2 @@
-# projectS
+# projectA
 another java project 
